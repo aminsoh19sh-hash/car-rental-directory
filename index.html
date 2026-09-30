@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>دليل محلات تأجير السيارات في المغرب</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚗</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<!-- Splash -->
+<div id="splash" class="splash">
+  <div class="splash-logo">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <path d="M5 17h14M5 17a2 2 0 01-2-2v-3l2-5h14l2 5v3a2 2 0 01-2 2M5 17a2 2 0 104 0M15 17a2 2 0 104 0"/>
+    </svg>
+    <h1>CAR RENTAL</h1>
+    <span>DIRECTORY · MOROCCO</span>
+  </div>
+</div>
+
+<!-- Home -->
+<div id="home" class="home">
+  <div class="home-hero">
+    <span class="eyebrow">OPEN DATA · MOROCCO</span>
+    <h1>ابحث عن محلات تأجير السيارات</h1>
+    <p>دليل مجاني مبني على بيانات مفتوحة — بدون تسجيل، بدون إعلانات</p>
+  </div>
+
+  <div class="search-card">
+    <div class="search-row">
+      <div class="field">
+        <label>المدينة</label>
+        <select id="citySelect">
+          <option value="casablanca">الدار البيضاء</option>
+          <option value="rabat">الرباط</option>
+          <option value="marrakech">مراكش</option>
+          <option value="agadir">أكادير</option>
+          <option value="tanger">طنجة</option>
+          <option value="fes">فاس</option>
+          <option value="meknes">مكناس</option>
+          <option value="ouarzazate">ورزازات</option>
+          <option value="essaouira">الصويرة</option>
+          <option value="dakhla">الداخلة</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>نوع المركبة</label>
+        <select id="typeSelect">
+          <option value="all">الكل</option>
+          <option value="economy">اقتصادية</option>
+          <option value="suv">SUV / 4x4</option>
+          <option value="luxury">فاخرة</option>
+        </select>
+      </div>
+      <button class="btn-search" id="searchBtn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <circle cx="11" cy="11" r="8"/>
+          <path d="M21 21l-4.35-4.35"/>
+        </svg>
+        بحث
+      </button>
+    </div>
+  </div>
+
+  <div class="home-note">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="10"/>
+      <path d="M12 16v-4M12 8h.01"/>
+    </svg>
+    <span>البيانات مستخرجة من <strong>OpenStreetMap</strong> — مصدر مفتوح ومجاني بالكامل.</span>
+  </div>
+</div>
+
+<!-- Results -->
+<div id="results" class="results hidden">
+  <header class="results-header">
+    <button class="btn-back" id="backBtn">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M19 12H5M12 19l-7-7 7-7"/>
+      </svg>
+      رجوع
+    </button>
+    <div class="results-info">
+      <h2 id="resultsTitle">النتائج</h2>
+      <span id="resultsCount">0 محل</span>
+    </div>
+  </header>
+
+  <div id="resultsGrid" class="results-grid"></div>
+</div>
+
+<!-- Detail -->
+<div id="detail" class="detail hidden">
+  <header class="detail-header">
+    <button class="btn-back" id="closeDetailBtn">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M19 12H5M12 19l-7-7 7-7"/>
+      </svg>
+      رجوع
+    </button>
+  </header>
+  <div id="detailContent"></div>
+</div>
+
+<script src="/app.js"></script>
+</body>
+</html>

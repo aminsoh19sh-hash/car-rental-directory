@@ -1,0 +1,527 @@
+{
+  "casablanca": [
+    {
+      "id": 1001,
+      "name": "Hertz Maroc",
+      "phone": "0522484710",
+      "email": "nouasser@hertz.ma",
+      "website": "https://www.hertz.ma",
+      "address": "25, rue El Oraibi Jilali - ex Foucauld, Casablanca 20000",
+      "city": "الدار البيضاء",
+      "lat": 33.5883,
+      "lon": -7.6114,
+      "openingHours": "Mo-Su 08:00-20:00",
+      "source": "Maroc Annuaire",
+      "sourceUrl": "https://marocannuaire.org"
+    },
+    {
+      "id": 1002,
+      "name": "OneClickDrive",
+      "phone": "0689674735",
+      "email": "mehdi@oneclickdrive.com",
+      "website": "https://oneclickdrive.com/fr/morocco",
+      "address": "Mohammed V International Airport, Casablanca 20000",
+      "city": "الدار البيضاء",
+      "lat": 33.3675,
+      "lon": -7.5898,
+      "openingHours": "24/7",
+      "source": "Maroc Annuaire",
+      "sourceUrl": "https://marocannuaire.org"
+    },
+    {
+      "id": 1003,
+      "name": "PALACIO CAR",
+      "phone": "+212666732833",
+      "email": "ads@palaciocar.com",
+      "website": "https://www.palaciocar.com",
+      "address": "Aéroport Casablanca Mohammed V, Nouasseur 29003",
+      "city": "الدار البيضاء",
+      "lat": 33.3675,
+      "lon": -7.5898,
+      "openingHours": "24/7",
+      "source": "Maroc Annuaire",
+      "sourceUrl": "https://marocannuaire.org"
+    },
+    {
+      "id": 1004,
+      "name": "EVE CAR",
+      "phone": "+212673013249",
+      "email": "mohssineaarif10@gmail.com",
+      "website": "https://www.evecarental.com",
+      "address": "165 Bd Abdelmoumen, Résidence Les champs Centre Magasin N°48, Casablanca",
+      "city": "الدار البيضاء",
+      "lat": 33.5772,
+      "lon": -7.6321,
+      "openingHours": "Mo-Sa 08:30-19:00",
+      "source": "Maroc Annuaire",
+      "sourceUrl": "https://marocannuaire.org"
+    },
+    {
+      "id": 1005,
+      "name": "RIFAI AUTO",
+      "phone": "0663651321",
+      "email": "m.qasyr@gmail.com",
+      "website": "https://www.rifaiauto.com",
+      "address": "164 Boulevard d'Anfa angle rue Moliére, Casablanca",
+      "city": "الدار البيضاء",
+      "lat": 33.5883,
+      "lon": -7.6321,
+      "openingHours": "Mo-Sa 09:00-19:00",
+      "source": "Maroc Annuaire",
+      "sourceUrl": "https://marocannuaire.org"
+    },
+    {
+      "id": 1006,
+      "name": "GRICHE CAR",
+      "phone": "+212522253221",
+      "email": "grichetransport@menara.ma",
+      "website": "https://www.grichetransport.com",
+      "address": "171 Boulevard Bir Anzarane, Q: Maarif, Casablanca 20100",
+      "city": "الدار البيضاء",
+      "lat": 33.5772,
+      "lon": -7.6321,
+      "openingHours": "Mo-Sa 08:30-18:30",
+      "source": "Maroc Annuaire",
+      "sourceUrl": "https://marocannuaire.org"
+    },
+    {
+      "id": 1007,
+      "name": "SIXT Casablanca Centre",
+      "phone": "+212522222222",
+      "email": null,
+      "website": "https://www.sixt.ca",
+      "address": "3, R. Assad Ibnou Zarara Maarif, Casablanca 20100",
+      "city": "الدار البيضاء",
+      "lat": 33.5866,
+      "lon": -7.6335,
+      "openingHours": "Mo-Fr 09:00-18:00",
+      "source": "SIXT",
+      "sourceUrl": "https://www.sixt.ca/fr-ca/location-voiture/maroc/casablanca/casablanca-centre/"
+    },
+    {
+      "id": 1008,
+      "name": "OPTIMO RENT",
+      "phone": "+212660727843",
+      "email": null,
+      "website": null,
+      "address": "Mohammed V International Airport, Casablanca",
+      "city": "الدار البيضاء",
+      "lat": 33.3675,
+      "lon": -7.5898,
+      "openingHours": "24/7",
+      "source": "QEEQ",
+      "sourceUrl": "https://fr.qeeq.com"
+    },
+    {
+      "id": 1009,
+      "name": "Thrifty Maroc",
+      "phone": "+212802007778",
+      "email": null,
+      "website": "https://en.thrifty.ma",
+      "address": "Casablanca Airport Mohammed 5, 20000 Casablanca",
+      "city": "الدار البيضاء",
+      "lat": 33.3675,
+      "lon": -7.5898,
+      "openingHours": "Mo-Su 07:00-22:00",
+      "source": "Thrifty Morocco",
+      "sourceUrl": "https://en.thrifty.ma"
+    },
+    {
+      "id": 1010,
+      "name": "ALI CAR Location",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "13 Rue de la Victoire, Casablanca 20290",
+      "city": "الدار البيضاء",
+      "lat": 33.5945,
+      "lon": -7.6175,
+      "openingHours": "24/7",
+      "source": "Cayn.ma",
+      "sourceUrl": "https://www.cayn.ma"
+    },
+    {
+      "id": 1011,
+      "name": "FASSA CAR",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "Avenue Mohamed Taieb Naciri, El Oulfa, Casablanca 20220",
+      "city": "الدار البيضاء",
+      "lat": 33.5432,
+      "lon": -7.6789,
+      "openingHours": "Mo-Su 08:30-18:30",
+      "source": "Cayn.ma",
+      "sourceUrl": "https://www.cayn.ma"
+    }
+  ],
+
+  "rabat": [
+    {
+      "id": 3001,
+      "name": "BRZ AUTO Location",
+      "phone": "+212624240280",
+      "email": null,
+      "website": "https://brz-auto.com",
+      "address": "Av. Oulad Frej, Rabat 10100",
+      "city": "الرباط",
+      "lat": 34.0209,
+      "lon": -6.8416,
+      "openingHours": "Mo-Sa 08:00-19:30",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    },
+    {
+      "id": 3002,
+      "name": "Blue line car",
+      "phone": null,
+      "email": "bluelinecar.rabat@gmail.com",
+      "website": null,
+      "address": "m24 Avenue Abdelkrim Al Khattabi, Rabat 10000",
+      "city": "الرباط",
+      "lat": 34.0254,
+      "lon": -6.8458,
+      "openingHours": "Mo-Sa 08:00-20:00",
+      "source": "Mapcarta (OSM)",
+      "sourceUrl": "https://mapcarta.com/fr/N4366960898"
+    },
+    {
+      "id": 3003,
+      "name": "Firefly Maroc (Aéroport Rabat-Salé)",
+      "phone": "+212802007778",
+      "email": null,
+      "website": "https://en.firefly.ma",
+      "address": "Aéroport Rabat-Salé, 10000 Rabat",
+      "city": "الرباط",
+      "lat": 34.0517,
+      "lon": -6.7514,
+      "openingHours": "24/7",
+      "source": "Firefly Maroc",
+      "sourceUrl": "https://en.firefly.ma"
+    }
+  ],
+
+  "marrakech": [
+    {
+      "id": 2001,
+      "name": "CLUB MAROC Autorent",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "133 massira 3 Magasin n133, 40000 Marrakech",
+      "city": "مراكش",
+      "lat": 31.6406,
+      "lon": -8.0672,
+      "openingHours": "24/7",
+      "source": "Mapcarta (OSM)",
+      "sourceUrl": "https://mapcarta.com/N5303219521"
+    },
+    {
+      "id": 2002,
+      "name": "CARDND",
+      "phone": null,
+      "email": null,
+      "website": "https://cardnd.com",
+      "address": "Avenue Abdelkrim Al Khatib, Guéliz, Marrakech 40000",
+      "city": "مراكش",
+      "lat": 31.6295,
+      "lon": -7.9811,
+      "openingHours": "Mo-Su 09:00-20:00",
+      "source": "LinkedIn / CARDND",
+      "sourceUrl": "https://ma.linkedin.com/company/cardnd"
+    },
+    {
+      "id": 2003,
+      "name": "Firefly Maroc (Aéroport Marrakech Menara)",
+      "phone": "+212802007778",
+      "email": null,
+      "website": "https://en.firefly.ma",
+      "address": "Aéroport Marrakech Menara, 40160 Marrakech",
+      "city": "مراكش",
+      "lat": 31.6069,
+      "lon": -8.0363,
+      "openingHours": "24/7",
+      "source": "Firefly Maroc",
+      "sourceUrl": "https://en.firefly.ma"
+    }
+  ],
+
+  "agadir": [
+    {
+      "id": 4001,
+      "name": "Gold Seasons",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "Centre-ville, Agadir",
+      "city": "أكادير",
+      "lat": 30.4278,
+      "lon": -9.5981,
+      "openingHours": "Mo-Su 09:00-19:00",
+      "source": "LinkedIn",
+      "sourceUrl": "https://ma.linkedin.com/company/gold-seasons"
+    },
+    {
+      "id": 4002,
+      "name": "Hertz Agadir Al Massira Airport",
+      "phone": "+212802007778",
+      "email": null,
+      "website": "https://www.hertz.ma",
+      "address": "Aéroport Agadir Al Massira, 20000 Agadir",
+      "city": "أكادير",
+      "lat": 30.3250,
+      "lon": -9.4131,
+      "openingHours": "Mo-Su 07:00-22:00",
+      "source": "QEEQ",
+      "sourceUrl": "https://fr.qeeq.com"
+    },
+    {
+      "id": 4003,
+      "name": "ASDI'CAR",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "Mag.108 Imm 6 Res Complexe Souss 1 et 2 Rue de Souk, Agadir",
+      "city": "أكادير",
+      "lat": 30.4200,
+      "lon": -9.6100,
+      "openingHours": "Mo-Sa 08:00-19:00",
+      "source": "Business Trust Africa",
+      "sourceUrl": "https://www.bt-africa.com"
+    },
+    {
+      "id": 4004,
+      "name": "Firefly Maroc (Aéroport Agadir Al Massira)",
+      "phone": "+212802007778",
+      "email": null,
+      "website": "https://en.firefly.ma",
+      "address": "Aéroport Agadir Al Massira, 80000 Agadir",
+      "city": "أكادير",
+      "lat": 30.3250,
+      "lon": -9.4131,
+      "openingHours": "24/7",
+      "source": "Firefly Maroc",
+      "sourceUrl": "https://en.firefly.ma"
+    }
+  ],
+
+  "tanger": [
+    {
+      "id": 5001,
+      "name": "EKSCARS",
+      "phone": "+212781717870",
+      "email": "contact@ekscars.com",
+      "website": "https://www.ekscars.com",
+      "address": "5º étage Nº19, Res Moulay Ismail, Av. Moulay Ismail, Tangier 90000",
+      "city": "طنجة",
+      "lat": 35.7595,
+      "lon": -5.8340,
+      "openingHours": "Mo-Su 08:00-20:00",
+      "source": "EKSCARS Official",
+      "sourceUrl": "https://www.ekscars.com/fr/a-propos"
+    },
+    {
+      "id": 5002,
+      "name": "Firefly Maroc (Aéroport Ibn Battouta)",
+      "phone": "+212802007778",
+      "email": null,
+      "website": "https://en.firefly.ma",
+      "address": "Aéroport Ibn Battouta, 90000 Tanger",
+      "city": "طنجة",
+      "lat": 35.7269,
+      "lon": -5.9167,
+      "openingHours": "24/7",
+      "source": "Firefly Maroc",
+      "sourceUrl": "https://en.firefly.ma"
+    }
+  ],
+
+  "fes": [
+    {
+      "id": 6001,
+      "name": "Bennis Car",
+      "phone": "+212663428766",
+      "email": null,
+      "website": null,
+      "address": "8 Rue Marmoucha, Fès 30050",
+      "city": "فاس",
+      "lat": 34.0631,
+      "lon": -5.0003,
+      "openingHours": "24/7",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    },
+    {
+      "id": 6002,
+      "name": "Tourvilles Location",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "Fès",
+      "city": "فاس",
+      "lat": 34.0331,
+      "lon": -5.0003,
+      "openingHours": "Mo-Sa 08:00-19:00",
+      "source": "Routard.com",
+      "sourceUrl": "https://www.routard.com"
+    },
+    {
+      "id": 6003,
+      "name": "Ouail Car",
+      "phone": "+212664400623",
+      "email": "contact@ouailcar.com",
+      "website": "https://ouailcar.com",
+      "address": "N°2, 716 Lot Al Ouafae 4, Route de Sefrou, Avenue Al Damam, Fes 30070",
+      "city": "فاس",
+      "lat": 33.9735,
+      "lon": -4.9779,
+      "openingHours": "Mo-Su 08:00-20:00",
+      "source": "Ouailcar Official",
+      "sourceUrl": "https://ouailcar.com/en/privacy-policy"
+    },
+    {
+      "id": 6004,
+      "name": "Fassia Car",
+      "phone": "+212661735341",
+      "email": null,
+      "website": null,
+      "address": "Rue 4, Fès",
+      "city": "فاس",
+      "lat": 34.0422,
+      "lon": -4.9978,
+      "openingHours": "Mo-Sa 09:00-19:30",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    },
+    {
+      "id": 6005,
+      "name": "Firefly Maroc (Aéroport Fès Saïss)",
+      "phone": "+212802007778",
+      "email": null,
+      "website": "https://en.firefly.ma",
+      "address": "Aéroport Fès Saïss, 30000 Fès",
+      "city": "فاس",
+      "lat": 33.9272,
+      "lon": -4.9779,
+      "openingHours": "24/7",
+      "source": "Firefly Maroc",
+      "sourceUrl": "https://en.firefly.ma"
+    }
+  ],
+
+  "kenitra": [
+    {
+      "id": 7001,
+      "name": "KENICAR",
+      "phone": null,
+      "email": "keniccar@gmail.com",
+      "website": null,
+      "address": "Imm Reda 1er Etage Rue Hassan Ibn Tabit, Kenitra 14000",
+      "city": "القنيطرة",
+      "lat": 34.2576,
+      "lon": -6.5848,
+      "openingHours": "24/7",
+      "source": "Mapcarta (OSM)",
+      "sourceUrl": "https://mapcarta.com/fr/N6408761136"
+    }
+  ],
+
+  "sale": [
+    {
+      "id": 8001,
+      "name": "Williamsburg Car",
+      "phone": "+212661904445",
+      "email": null,
+      "website": "https://williamsburgcarlocation.com",
+      "address": "1323 Av. Ibn Tofail, Salé",
+      "city": "سلا",
+      "lat": 34.0531,
+      "lon": -6.7985,
+      "openingHours": "Mo-Sa 08:00-19:00",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    }
+  ],
+
+  "tetouan": [
+    {
+      "id": 9001,
+      "name": "BOLINC CAR",
+      "phone": "+212605929751",
+      "email": null,
+      "website": null,
+      "address": "22789, Martil 93150",
+      "city": "مرتيل",
+      "lat": 35.6167,
+      "lon": -5.2833,
+      "openingHours": "Mo-Su 10:00-20:00",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    }
+  ],
+
+  "alaroui": [
+    {
+      "id": 10001,
+      "name": "BENHADI CAR",
+      "phone": "+212634427759",
+      "email": null,
+      "website": null,
+      "address": "2X6V+MPM BENHADI CAR, Ave Hassan II, Al-Aroui",
+      "city": "العروي",
+      "lat": 35.0500,
+      "lon": -3.8333,
+      "openingHours": "Mo-Sa 09:00-19:00",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    },
+    {
+      "id": 10002,
+      "name": "Tazodha car",
+      "phone": "+212706696694",
+      "email": null,
+      "website": null,
+      "address": "39 Av. Mohammed V, Al-Aroui",
+      "city": "العروي",
+      "lat": 35.0512,
+      "lon": -3.8321,
+      "openingHours": "24/7",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    }
+  ],
+
+  "taza": [
+    {
+      "id": 11001,
+      "name": "GLC CAR",
+      "phone": "+212677328090",
+      "email": null,
+      "website": null,
+      "address": "Lotissement Ismailia, Magasin Immeuble Hay, NR 56 Bd Moulay Youssef, Taza 35000",
+      "city": "تازة",
+      "lat": 34.2100,
+      "lon": -4.0100,
+      "openingHours": "24/7",
+      "source": "docautomaroc.com",
+      "sourceUrl": "https://docautomaroc.com"
+    }
+  ],
+
+  "alhoceima": [
+    {
+      "id": 12001,
+      "name": "sté Amazian ElIdrissi Car",
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": "55 Bis rue Bir Anzarane, Al Hoceima",
+      "city": "الحسيمة",
+      "lat": 35.2517,
+      "lon": -3.9372,
+      "openingHours": "Mo-Sa 08:30-18:30",
+      "source": "Telecontact.ma",
+      "sourceUrl": "https://www.telecontact.ma"
+    }
+  ]
+}
